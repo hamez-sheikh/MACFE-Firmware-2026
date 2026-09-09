@@ -1,2 +1,7 @@
 # MACFE-Firmware-2026
-Firmware application repository for McMaster Formula Electric
+
+A simple Hello World program written in Python.
+
+To run:
+
+python main.py
